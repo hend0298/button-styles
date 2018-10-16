@@ -7,7 +7,35 @@ html {
   box-sizing: inherit;
 }
 
+a {
+  text-decoration: none;
+}
 div {
   padding: .5rem;
   text-align: center;
+}
+
+.btn {
+  border-radius: 8px;
+  color: #fff;
+  padding: .4em .75em .3em;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+}
+
+.btn-ghost {
+border-style: solid;
+border-width: 3px;
+border-color: #000;
+color: #000;
+}
+
+.btn-warning {
+  background-color: #f33;
+}
+
+.btn-primary {
+  background-color: #333;
 }
