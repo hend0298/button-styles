@@ -22,6 +22,10 @@ div {
   text-decoration: none;
 }
 
+.btn:hover {
+  background-color: #000;
+}
+
 .btn-subtle {
   background-color: #ccc;
 }
@@ -61,8 +65,4 @@ div {
   color: #fff;
   background-color: #666;
   border-color: #666;
-}
-
-.btn-hover {
-  background-color: #000;
 }
