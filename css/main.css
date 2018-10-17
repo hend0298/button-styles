@@ -49,10 +49,6 @@ div {
   font-size: 1.5rem;
 }
 
-.btn-primary:hover {
-  background-color: #000;
-}
-
 .btn-warning:hover {
   background-color: #933;
 }
@@ -65,4 +61,8 @@ div {
   color: #fff;
   background-color: #666;
   border-color: #666;
+}
+
+.btn-hover {
+  background-color: #000;
 }
